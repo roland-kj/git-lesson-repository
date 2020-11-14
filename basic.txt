@@ -1,0 +1,7 @@
+2 basic terminal operations
+2 basic terminal operations
+2 basic terminal operations
+
+
+cat tasks.txt | grep basic > basic.txt
+

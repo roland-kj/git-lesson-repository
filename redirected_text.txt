@@ -1,0 +1,5 @@
+i-vel tudok bele írni
+és 
+vi-vel tudom megnyitni.
+Kilépés: ESC utána :wq
+alul egy command line jelenik meg :)
